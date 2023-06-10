@@ -1,0 +1,45 @@
+/* GENERAL */
+
+/* Override the styles that some browsers set by default. */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 1rem will be 10px. */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #9AC5F4;
+}
+
+/* PASSWORD BOX */
+
+.container {
+    margin-top: 25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box-password {
+    margin-top: 1.5rem;
+    width: 40rem;
+    border: 0.1rem solid #00608d;;
+    border-radius: 1rem;
+    padding: 1rem 0.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #00608d;        
+    outline: none;
+}
+
+.bx {
+    font-size: 3rem;
+    color: #00608d;
+    transform: translate(17rem,-3.5rem);
+    cursor: pointer;
+}
