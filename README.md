@@ -7,7 +7,7 @@
 </div>
 <br />
 <p align="justify">
-This repository contains an example of a password input box written in HTML, CSS, and JavaScript that can be used by anyone to learn how to program with these languages. The code uses resources such as semantic HTML, relative measurements, element alignment on screen using flexbox and event handling in JavaScript.
+This repository contains an example of a password input box written in HTML, CSS and JavaScript that can be used by anyone to learn how to program with these languages. The code uses resources such as semantic HTML, relative measurements, element alignment on screen using flexbox and event handling in JavaScript.
 </p>
 
 ## How to use this repository
