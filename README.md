@@ -25,7 +25,7 @@ The code in this repository is programmed in HTML, CSS and JavaScript. HTML is u
 - Using relative measurements and flexbox in CSS to make the box adapt to different screen sizes.
 - Using JavaScript to handle events and perform password validation.
 
-You can view the load screen in action <a href= "https://seyerjo.github.io/password-box-example/">here</a>.
+You can view the password input box in action <a href= "https://seyerjo.github.io/password-box-example/">here</a>.
 </p>
 
 ## License
