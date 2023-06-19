@@ -1,3 +1,4 @@
+// Constants declarations
 const boxPass = document.querySelector(".box-password");
 const eyeIcon = document.querySelector(".bx");
 
