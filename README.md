@@ -1,4 +1,4 @@
-# Password Box Example
+# Password Input Box Example
 
 <div align="left">
   <img src="https://img.shields.io/badge/Release-v1.1.0-blue.svg" alt="Version">
